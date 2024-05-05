@@ -1,0 +1,43 @@
+html{
+    background-color: rgba(85, 240, 14, 0.781);
+    text-align: center;
+}
+
+.favorito{
+background-color: rgb(207, 210, 235);
+color: rgb(133, 13, 13);
+}
+.favorito article a{
+    color: rgb(242, 255, 127);
+}
+
+.destacados{
+    background-color: rgb(230, 109, 40);
+    color: whitesmoke;
+}
+.destacados article a{
+    color: rgb(146, 218, 112);
+
+
+
+ 
+    
+}
+
+.registro{
+    background-color:rgba(89, 90, 104, 0.762);
+    color: white;
+}
+
+header{
+    background-color: rgb(150, 237, 100);
+}
+
+main{
+    background-color: rgb(197, 154, 14);
+}
+
+footer{
+    background-color: rgb(154, 154, 160);
+    color: rgb(10, 10, 9);
+}
